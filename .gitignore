@@ -53,4 +53,4 @@ yarn.lock
 pnpm-lock.yaml
 
 # La cache que usa sass al compilar
-/dist/
+#/dist/
